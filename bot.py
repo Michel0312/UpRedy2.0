@@ -11,7 +11,7 @@ import re
 import mimetypes
 import requests
 import json
-import NexCloudClient
+#import NexCloudClient
 import zipfile
 #import psutil
 import platform
