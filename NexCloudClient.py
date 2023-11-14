@@ -15,7 +15,7 @@ import base64
 import socket
 import socks
 
-#import S5Crypto
+import S5Crypto
 def parse(text):   
         proxy_tokens = text.split('://')
         print(proxy_tokens)
