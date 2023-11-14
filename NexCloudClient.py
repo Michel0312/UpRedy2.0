@@ -90,7 +90,7 @@ class NexCloudClient(object):
 
     def nameRamdom():
         populaton = 'abcdefgh1jklmnopqrstuvwxyz1234567890ABCDEFGHIJKLMNOPQRSTUVWXYZ'
-        name = "".join(random.sample(populaton,5))
+        #name = "".join(random.sample(populaton,5))
         return name
 
     def delete(self,urlname):
